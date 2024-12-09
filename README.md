@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌟, I'm Tyrone Sotil</h1>
+<h1 align="center">Hi 🌟, I'm Jhinta</h1>
 
 ###
 
@@ -6,9 +6,10 @@
 
 ###
 
-<p align="left">🚀 I’m currently studying at Universidad Peruana de Ciencias Aplicadas<br>
-<br>📩 How to reach me: raisotil17@gmail.com<br>
-<br>🎮 My hobbies are videogames, technology, and mastering TETRIS 🕹️</p>
+<p align="left">🎥 A TETRIS YouTuber who also loves to code <br>
+<br>🚀 I’m currently studying at Universidad Peruana de Ciencias Aplicadas<br>
+<br>📩 How to reach me: jhinta7@gmail.com<br>
+<br>🎮 My hobbies are video games, technology, and everything related to Modern TETRIS 🕹️</p>
 
 ###
 
