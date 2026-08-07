@@ -1,0 +1,56 @@
+name: Regenerate Tetris Autoplay SVG
+
+on:
+  # New match on the 1st of every month
+  schedule:
+    - cron: "0 3 1 * *"
+
+  # Allow manual triggering
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Simulation seed (blank = random)"
+        required: false
+        default: ""
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate Tetris SVG
+        run: |
+          SEED="${{ github.event.inputs.seed }}"
+          if [ -z "$SEED" ]; then SEED=$RANDOM$RANDOM; fi
+          echo "Using seed $SEED"
+          node .github/scripts/tetris-svg.mjs assets/tetris.svg "$SEED"
+
+      # Keeps the gh-tetris link pointing at the current year's grid
+      - name: Sync year in playable-tetris link
+        run: |
+          YEAR=$(date -u +%Y)
+          echo "Current year: $YEAR"
+          sed -i -E "s|(gh-tetris\.vercel\.app/Tyrone-J\?year=)[0-9]{4}|\1${YEAR}|" README.md
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/tetris.svg README.md; then
+            echo "No change."
+            exit 0
+          fi
+          git add assets/tetris.svg README.md
+          git commit -m "Regenerate tetris autoplay animation [skip ci]"
+          git push

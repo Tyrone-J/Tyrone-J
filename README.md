@@ -1,86 +1,148 @@
-<h1 align="center">Hi 🌟, I'm Jhinta</h1>
-
-###
-
-<h2 align="center">Frontend and Backend Developer</h2>
-
-###
-
-<p align="left">🎥 A TETRIS YouTuber who also loves to code <br>
-<br>🚀 I’m currently studying at Universidad Peruana de Ciencias Aplicadas<br>
-<br>📩 How to reach me: jhinta7@gmail.com<br>
-<br>🎮 My hobbies are video games, technology, and everything related to Modern TETRIS 🕹️</p>
-
-###
-
-<h3 align="left">💻 Tech Skills</h3>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1A1A1A,100:FF6B00&height=220&section=header&text=JHINTA&fontSize=80&fontColor=FFFFFF&fontAlignY=34&desc=FRONTEND%20%2F%2F%20AI%20ENGINEER&descSize=15&descAlignY=54&animation=fadeIn" width="100%" alt="header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF6B00&center=true&vCenter=true&width=620&lines=%3E+SYS.BOOT+//+BUILDING+AT+THE+EDGE+OF+THE+STACK;%3E+FRONTEND+ENGINEER+//+AI+ENGINEER;%3E+AUTOMATION+%7C%7C+DATA+%7C%7C+SELF-HOSTED+INFRA" alt="typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-FF6B00?style=flat-square&labelColor=0D1117" alt="status"/>
+<img src="https://img.shields.io/badge/LOCATION-LIMA%20%2F%2F%20PE-FFFFFF?style=flat-square&labelColor=0D1117" alt="location"/>
+<img src="https://img.shields.io/badge/MODE-40L%20SPRINT-FF6B00?style=flat-square&labelColor=0D1117" alt="mode"/>
+<img src="https://komarev.com/ghpvc/?username=Tyrone-J&style=flat-square&color=FF6B00&label=VISITORS" alt="views"/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF6B00,100:000000&height=3" width="100%" alt="divider"/>
+
 </div>
 
+<a id="profile"></a>
 
-###
+## `[ 01 ]` PLAYER_PROFILE
 
-<h3 align="left">📈 Github Stats</h3>
+```ts
+const jhinta = {
+  role      : "Frontend Developer & AI Engineer",
+  studying  : "Universidad Peruana de Ciencias Aplicadas",
+  focus     : "Modern TETRIS — stacking, finesse & speed",
+  contact   : "jhinta7@gmail.com",
+  interests : ["video games", "technology", "modern tetris"],
+  motto     : "Ship clean. Stack clean.",
+} as const;
+```
 
-###
+<a id="stack"></a>
+
+## `[ 02 ]` TECH_STACK
+
+<table>
+<tr><td><b>&nbsp;I&nbsp;</b></td><td><b>&nbsp;CORE&nbsp;</b></td><td>
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B00)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF6B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF6B00)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FF6B00)
+
+</td></tr>
+<tr><td><b>&nbsp;J&nbsp;</b></td><td><b>&nbsp;LANGS&nbsp;</b></td><td>
+
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFFFFF)
+
+</td></tr>
+<tr><td><b>&nbsp;L&nbsp;</b></td><td><b>&nbsp;FRONT&nbsp;</b></td><td>
+
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FF6B00)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=FF6B00)
+
+</td></tr>
+<tr><td><b>&nbsp;S&nbsp;</b></td><td><b>&nbsp;BACK&nbsp;</b></td><td>
+
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFFFFF)
+
+</td></tr>
+<tr><td><b>&nbsp;Z&nbsp;</b></td><td><b>&nbsp;DATA&nbsp;</b></td><td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FF6B00)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=FF6B00)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF6B00)
+
+</td></tr>
+<tr><td><b>&nbsp;O&nbsp;</b></td><td><b>&nbsp;INFRA&nbsp;</b></td><td>
+
+![VPS](https://img.shields.io/badge/VPS%20Server-0D1117?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</td></tr>
+<tr><td><b>&nbsp;T&nbsp;</b></td><td><b>&nbsp;AI&nbsp;/&nbsp;TOOLS&nbsp;</b></td><td>
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0D1117?style=for-the-badge&logo=claude&logoColor=FF6B00)
+![Antigravity](https://img.shields.io/badge/Antigravity-0D1117?style=for-the-badge&logo=google&logoColor=FF6B00)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FF6B00)
+
+</td></tr>
+</table>
+
+<a id="scoreboard"></a>
+
+## `[ 03 ]` SCOREBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tyrone-J&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="154" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Tyrone-J&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="154" alt="streak graph"  />
+
+
+<img src="https://streak-stats.demolab.com?user=Tyrone-J&hide_border=true&background=0D1117&stroke=2A2A2A&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" height="165" alt="streak"/>
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tyrone-J&theme=github_dark" height="180" alt="commit languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tyrone-J&bg_color=0D1117&color=FFFFFF&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B00&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="98%" alt="activity"/>
+
 </div>
 
-![snake_gif](https://github.com/Tyrone-J/Tyrone-J/blob/output/github-snake-dark.svg)
+<a id="grid"></a>
 
-###
+## `[ 04 ]` CONTRIBUTION_GRID
+
+<div align="center">
+
+![snake](https://github.com/Tyrone-J/Tyrone-J/blob/output/github-snake-dark.svg)
+
+</div>
+
+<a id="arcade"></a>
+
+## `[ 05 ]` ARCADE
+
+<div align="center">
+
+<img src="assets/tetris.svg" width="332" alt="Auto-playing Tetris board"/>
+
+<br/>
+
+<sub>Self-contained SVG. A heuristic AI plays a full match — the board, the AI and the animation are baked in at build time.</sub>
+
+<br/><br/>
+
+<a href="https://gh-tetris.vercel.app/Tyrone-J?year=2026"><img src="https://img.shields.io/badge/PLAY%20MY%20CONTRIBUTION%20GRAPH-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00&labelColor=0D1117" alt="play tetris"/></a>
+
+<sub>Turn my contribution graph into a playable board · <code>gh-tetris.vercel.app</code></sub>
+
+</div>
+
+<a id="connect"></a>
+
+## `[ 06 ]` CONNECT
+
+<div align="center">
+
+<a href="mailto:jhinta7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="email"/></a>
+<a href="https://github.com/Tyrone-J"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,40:1A1A1A,100:000000&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
