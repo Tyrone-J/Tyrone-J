@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1A1A1A,100:FF6B00&height=220&section=header&text=JHINTA&fontSize=80&fontColor=FFFFFF&fontAlignY=34&desc=FRONTEND%20%2F%2F%20AI%20ENGINEER&descSize=15&descAlignY=54&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1A1A1A,100:FF6B00&height=160&section=header&text=JHINTA&fontSize=80&fontColor=FFFFFF&fontAlignY=34&desc=FRONTEND%20%2F%2F%20AI%20ENGINEER&descSize=15&descAlignY=54&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=FF6B00&center=true&vCenter=true&width=620&lines=%3E+SYS.BOOT+//+BUILDING+AT+THE+EDGE+OF+THE+STACK;%3E+FRONTEND+ENGINEER+//+AI+ENGINEER;%3E+AUTOMATION+%7C%7C+DATA+%7C%7C+SELF-HOSTED+INFRA" alt="typing"/>
 
@@ -16,9 +16,25 @@
 
 </div>
 
+</div>
+
+<a id="arcade"></a>
+
+## `[ 01 ]` ARCADE
+
+<div align="center">
+
+<img src="assets/tetris.svg" width="332" alt="Auto-playing Tetris board"/>
+
+<br/>
+
+<sub>Self-contained SVG. A heuristic AI plays a full match — the board, the AI and the animation are baked in at build time.</sub>
+
+</div>
+
 <a id="profile"></a>
 
-## `[ 01 ]` PLAYER_PROFILE
+## `[ 02 ]` PLAYER_PROFILE
 
 ```ts
 const jhinta = {
@@ -33,7 +49,7 @@ const jhinta = {
 
 <a id="stack"></a>
 
-## `[ 02 ]` TECH_STACK
+## `[ 03 ]` TECH_STACK
 
 <table>
 <tr><td><b>&nbsp;I&nbsp;</b></td><td><b>&nbsp;CORE&nbsp;</b></td><td>
@@ -88,7 +104,7 @@ const jhinta = {
 
 <a id="scoreboard"></a>
 
-## `[ 03 ]` SCOREBOARD
+## `[ 04 ]` SCOREBOARD
 
 <div align="center">
 
@@ -104,31 +120,11 @@ const jhinta = {
 
 <a id="grid"></a>
 
-## `[ 04 ]` CONTRIBUTION_GRID
+## `[ 05 ]` CONTRIBUTION_GRID
 
 <div align="center">
 
 ![snake](https://github.com/Tyrone-J/Tyrone-J/blob/output/github-snake-dark.svg)
-
-</div>
-
-<a id="arcade"></a>
-
-## `[ 05 ]` ARCADE
-
-<div align="center">
-
-<img src="assets/tetris.svg" width="332" alt="Auto-playing Tetris board"/>
-
-<br/>
-
-<sub>Self-contained SVG. A heuristic AI plays a full match — the board, the AI and the animation are baked in at build time.</sub>
-
-<br/><br/>
-
-<a href="https://gh-tetris.vercel.app/Tyrone-J?year=2026"><img src="https://img.shields.io/badge/PLAY%20MY%20CONTRIBUTION%20GRAPH-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00&labelColor=0D1117" alt="play tetris"/></a>
-
-<sub>Turn my contribution graph into a playable board · <code>gh-tetris.vercel.app</code></sub>
 
 </div>
 
@@ -138,10 +134,9 @@ const jhinta = {
 
 <div align="center">
 
-<a href="mailto:jhinta7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B00" alt="email"/></a>
-<a href="https://github.com/Tyrone-J"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="github"/></a>
-
-<br/>
+<a href="https://www.linkedin.com/in/tyrone-sotil/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="linkedin"/></a>
+<a href="mailto:jhinta7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="email"/></a>
+<a href="https://github.com/Tyrone-J"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00" alt="github"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,40:1A1A1A,100:000000&height=120&section=footer" width="100%" alt="footer"/>
 

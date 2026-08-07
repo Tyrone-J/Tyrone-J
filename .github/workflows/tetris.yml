@@ -36,21 +36,14 @@ jobs:
           echo "Using seed $SEED"
           node .github/scripts/tetris-svg.mjs assets/tetris.svg "$SEED"
 
-      # Keeps the gh-tetris link pointing at the current year's grid
-      - name: Sync year in playable-tetris link
-        run: |
-          YEAR=$(date -u +%Y)
-          echo "Current year: $YEAR"
-          sed -i -E "s|(gh-tetris\.vercel\.app/Tyrone-J\?year=)[0-9]{4}|\1${YEAR}|" README.md
-
       - name: Commit if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet -- assets/tetris.svg README.md; then
+          if git diff --quiet -- assets/tetris.svg; then
             echo "No change."
             exit 0
           fi
-          git add assets/tetris.svg README.md
+          git add assets/tetris.svg
           git commit -m "Regenerate tetris autoplay animation [skip ci]"
           git push
